@@ -1,0 +1,44 @@
+﻿  main.cpp
+C:\Users\UniverseArc\Desktop\У-ворд\Krupa\4 Курс\Leks\Core\status_codes.h(27,2): warning C4091: typedef : пропускается слева от "StatusCode", когда ни одна переменная не объявлена
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\UniverseArc\Desktop\У-ворд\Krupa\4 Курс\Leks\Core\parser_config.h(38,37): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\UniverseArc\Desktop\У-ворд\Krupa\4 Курс\Leks\Core\parser_config.h(42,33): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\UniverseArc\Desktop\У-ворд\Krupa\4 Курс\Leks\Core\parser_config.h(46,39): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\UniverseArc\Desktop\У-ворд\Krupa\4 Курс\Leks\Core\syntax_tree_builder.h(36,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\UniverseArc\Desktop\У-ворд\Krupa\4 Курс\Leks\Core\syntax_tree_builder.h(58,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\UniverseArc\Desktop\У-ворд\Krupa\4 Курс\Leks\Core\syntax_tree_by_char_builder.h(42,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\UniverseArc\Desktop\У-ворд\Krupa\4 Курс\Leks\Core\syntax_tree_by_char_builder.h(73,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\UniverseArc\Desktop\У-ворд\Krupa\4 Курс\Leks\SYNTAX\syntax.h(68,56): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\UniverseArc\Desktop\У-ворд\Krupa\4 Курс\Leks\SYNTAX\syntax.h(92,49): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\UniverseArc\Desktop\У-ворд\Krupa\4 Курс\Leks\SYNTAX\syntax.h(114,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\UniverseArc\Desktop\У-ворд\Krupa\4 Курс\Leks\SYNTAX\syntax.h(161,67): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\UniverseArc\Desktop\У-ворд\Krupa\4 Курс\Leks\Core\operators_tree_builder.h(33,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\UniverseArc\Desktop\У-ворд\Krupa\4 Курс\Leks\Core\operators_tree_builder.h(39,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+  LEXER_TEST.vcxproj -> C:\Users\UniverseArc\Desktop\У-ворд\Krupa\4 Курс\Leks\x64\Debug\LEXER_TEST.exe
