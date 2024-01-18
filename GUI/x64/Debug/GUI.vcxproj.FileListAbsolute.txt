@@ -1,0 +1,3 @@
+C:\Users\UniverseArc\Desktop\У-ворд\Krupa\4 Курс\Leks\GUI\x64\Debug\GUI.vcxproj.AssemblyReference.cache
+C:\Users\UniverseArc\Desktop\У-ворд\Krupa\4 Курс\Leks\GUI\x64\Debug\GUI.MainForm.resources
+C:\Users\UniverseArc\Desktop\У-ворд\Krupa\4 Курс\Leks\GUI\x64\Debug\GUI.vcxproj.GenerateResource.cache
